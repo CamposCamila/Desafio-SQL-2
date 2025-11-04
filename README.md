@@ -27,7 +27,7 @@ MySQL
 👩‍💻 Autor(a)
 
 Camila Campos
-📚 Estudante de Administração com foco em Análise de Dados e Inteligência Artificial
+📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial
 🌐 [LinkedIn](https://linkedin.com/in/camilascampos)
 
 ![Image Alt](https://github.com/CamposCamila/Desafio-SQL-2/blob/72e820f4ac9eefaf5185c03b3258b23c1c84a627/Projeto%20de%20Oficina%20Mec%C3%A2nica%20no%20MySQL.png)
